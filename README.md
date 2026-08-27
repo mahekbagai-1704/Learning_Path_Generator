@@ -29,19 +29,19 @@ The application is built using **Python, Streamlit, LangChain, and an LLM**.
 
 Enter a skill or topic, select your learning level, and generate a structured roadmap.
 
-![Main Interface](App_ Screenshots/main-interface.png)
+![Main Interface](App_Screenshots/main-interface.png)
 
 ### Generated Learning Path
 
 The application generates a structured learning journey with a learning goal, stages, and topics.
 
-![Generated Learning Path](App_ Screenshots/learning-path.png)
+![Generated Learning Path](App_Screenshots/learning-path.png)
 
 ### Download & Ask Questions
 
 After generating the roadmap, you can download it as a PDF and ask follow-up questions about your learning path.
 
-![Download and Follow-up](App_ Screenshots/features.png)
+![Download and Follow-up](App_Screenshots/features.png)
 
 ## ⚙️ Setup and Installation
 
