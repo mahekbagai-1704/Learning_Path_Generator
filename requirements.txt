@@ -11,23 +11,11 @@ langchain==1.3.11
 langchain-core==1.4.8
 langchain-groq
 langchain-openai
-langchain-anthropic
-langchain-google-genai
 langchain-community
-langchain-qdrant
 langchain-classic
 
-# Vector Database
-qdrant-client==1.16.2
-
-# Document Processing
-pypdf==6.5.0
+reportlab
 
 # Web UI
 streamlit==1.52.2
 
-# Database (for chat history)
-sqlalchemy==2.0.45
-
-# Text Processing
-langchain-text-splitters==1.1.0
