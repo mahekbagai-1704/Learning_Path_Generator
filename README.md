@@ -106,7 +106,7 @@ The application will open in your browser.
 
 The application is deployed using Streamlit Cloud.
 
-**Live App:** <your-streamlit-app-urlhttps://learning-path-generator-app.streamlit.app>
+**Live App:** <https://learning-path-generator-app.streamlit.app>
 
 ## 👩‍💻 Author
 
